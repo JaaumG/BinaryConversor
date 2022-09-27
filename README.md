@@ -12,3 +12,5 @@ So, to convert an decimal number to binary, you start by get the number and divi
     
     so its 10001 
 If you don't want to calculate by hand you can use others calculators, i recommend this one [Binary Calculator (Decimal to Binary)](https://www.rapidtables.com/convert/number/decimal-to-binary.html) beacuse this one shows the process behind.
+#### But how to convert Binary back to decimal ?
+So, to solve this problem i've made another program, which does the oposite of this one does, here's the link: [BinaryConverter by JaaumG](https://github.com/JaaumG/BinaryConverter/tree/main)
